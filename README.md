@@ -9,7 +9,7 @@ This project emphasizes responsive design using **HTML**, **CSS**, and **Bootstr
 
 ## 🌐 Live Demo
 
-[Click here to view the live project](#)  
+https://umama-khanam.github.io/PawPal-project/ 
 
 ---
 
